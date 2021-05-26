@@ -1,0 +1,30 @@
+{
+    "Virginia": [
+        "cases",
+        "rates"
+    ],
+    "New York": [
+        "cases",
+        "rates"
+    ],
+    "New Jersey": [
+        "cases",
+        "rates"
+    ],
+    "Delaware": [
+        "cases",
+        "rates"
+    ],
+    "Maryland": [
+        "cases",
+        "rates"
+    ],
+    "Pennsylvania": [
+        "cases",
+        "rates"
+    ],
+    "West Virginia": [
+        "cases",
+        "rates"
+    ]
+}
