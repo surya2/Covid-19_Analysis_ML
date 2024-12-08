@@ -1,2 +1,2 @@
 # Covid-19_Analysis_ML
-My Covid-19 Trend Analysis Project and Machine Learning Code
+Data stored for Covid-19 Spread Analysis ML Project
